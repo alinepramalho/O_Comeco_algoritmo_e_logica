@@ -1,0 +1,17 @@
+Algoritmo "PRIMEIRO"
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor   : Gustavo Guanabara
+// Descrição   : Primeiro comando
+// Autor(a)    : Aline Pereira Ramalho
+// Data atual  : 29/04/2024
+Var
+// Seção de Declarações das variáveis 
+
+
+Inicio
+// Seção de Comandos, procedimento, funções, operadores, etc... 
+     escreval("Olá mundo!")
+     escreva("primeiro programa da Aline")
+
+
+Fimalgoritmo
