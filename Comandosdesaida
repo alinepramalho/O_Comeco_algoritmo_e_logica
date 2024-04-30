@@ -1,0 +1,8 @@
+Algoritmo "PRIMEIRO"
+
+Var
+msg: caractere
+Inicio
+msg <- "Olá Mundo!"
+     escreval("Mensagem importante: ", msg)
+ Fimalgoritmo
