@@ -1,0 +1,10 @@
+algoritmo "meunome"
+
+var
+   nome: Caractere
+inicio
+   escreva ("digite seu nome: ")
+   leia (nome)
+   Escreva (" muito prazer, ", nome)
+
+fimalgoritmo
